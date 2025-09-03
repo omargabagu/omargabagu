@@ -1,26 +1,19 @@
-<div align="Center">
-<img width="100" src="" />
-
 <div align="center">
+  <img width="100" src="<!-- your image URL here -->" alt="Profile Image"/>
 
-<a href="https://github.com/omargabagu">
-<img src="" />
-</a>
+  <br/>
 
+  <a href="https://github.com/omargabagu">
+    <img src="<!-- your banner/logo URL here -->" alt="GitHub Link"/>
+  </a>
 
+  <p>My description hehe</p>
 
-My description hehe
-
-
-<div align="Center">
-<h1>Skills</h1>
+  <h1>Skills</h1>
 </div>
 
-<div align="Center">
+## 🖥️ **Programming Languages**
 
-| Website | Programming |
-| ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=php,c,html,css,js,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,github"/> |
-
-</div>
-
+| Web Development | System / Application |
+| --------------- | --------------------- |
+| <img src="https://skillicons.dev/icons?i=php,js,html,css" alt="Web Dev Icons"/> | <img src="https://skillicons.dev/icons?i=py,c,cs,java" alt="System/Application Icons"/> |
